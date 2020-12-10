@@ -1,4 +1,4 @@
-# leimo
+# Crypty
 
 A new Flutter application.
 
